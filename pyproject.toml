@@ -1,7 +1,7 @@
 [project]
 name = "mneme"
 version = "0.1.0"
-description = "Add your description here"
+description = "A simple Discord bot to view old voice channel status messages."
 authors = [
     { name = "2mal3", email = "56305732+2mal3@users.noreply.github.com" }
 ]
